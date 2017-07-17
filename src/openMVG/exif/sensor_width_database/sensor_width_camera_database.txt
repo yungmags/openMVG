@@ -87,6 +87,7 @@ iPhone6;4.89
 iPhone6,1;4.89
 iPhone6,2;4.89
 iPhone 6;4.89
+iPhone6S;4.89
 iPhone 6 Plus;4.89
 iPhone 6s Plus;4.89
 BenQ GH200;6.16
